@@ -1,0 +1,2 @@
+Output trong Bundle JS
+Bundle.css để chạy các biến trong component
