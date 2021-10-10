@@ -10,7 +10,6 @@ const pusher = new Pusher({
   useTLS: true
 });
 
-
 const app = express();
 
 app.use(cors({
